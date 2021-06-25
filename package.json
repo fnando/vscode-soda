@@ -11,11 +11,12 @@
       }
     ]
   },
-  "description": "",
+  "description": "Color scheme based on Espresso Soda",
   "displayName": "soda",
   "engines": {
     "vscode": "^1.57.0"
   },
+  "icon": "icon.png",
   "name": "soda",
   "publisher": "fnando",
   "repository": {
