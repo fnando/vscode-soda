@@ -182,13 +182,6 @@
       }
     },
     {
-      "name": "Strings: Symbols",
-      "scope": "constant.other.symbol",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
       "name": "Markup: Emphasis",
       "scope": "markup.italic",
       "settings": {
