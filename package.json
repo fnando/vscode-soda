@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soda",
+        "path": "./themes/Soda-color-theme.json",
+        "uiTheme": "vs"
+      }
+    ]
+  },
+  "description": "",
+  "displayName": "soda",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "name": "soda",
+  "publisher": "fnando",
+  "repository": {
+    "url": "https://github.com/fnando/vscode-soda"
+  },
+  "version": "0.0.0"
+}
